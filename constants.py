@@ -6,6 +6,7 @@
 # somethign depending on the province and the subtotal
 
 
+# this is where all the taxes for each province are located
 MB = 0.05
 SK = 0.05
 AB = 0.05
